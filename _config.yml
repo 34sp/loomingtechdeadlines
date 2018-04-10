@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   supported, become insecure and generally be a liability to leave active.  This
    site gathers those deadlines into one place for easy reference.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://34sp.github.io/loomingtechdeadlines/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danfoster
 github_username:  merlin83b
 

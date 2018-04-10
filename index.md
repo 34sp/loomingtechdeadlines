@@ -14,4 +14,8 @@ Programming languages:
 Protocols:
 {% include protocols.html %}
 
+Misc:
+{% include misc.html %}
+
+
 Everything in one <a href="biglist.html">big list</a>.

@@ -1,0 +1,11 @@
+<ul>
+{% assign sorted = site.data.distros | concat: site.data.languages | concat: site.data.protocols | sort: 'date' %}
+{% for thing in sorted %}
+  <li>
+    {{ thing.name }} {{ thing.version }}
+    <a href="{{ distro.url }}">
+      {{ thing.problem }} on {{ thing.date }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

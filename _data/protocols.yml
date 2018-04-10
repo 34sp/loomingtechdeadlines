@@ -1,0 +1,5 @@
+- name: TLS
+  version: 1.0
+  date: 2018-06-30
+  problem: PCI obsolescence
+  url: https://blog.pcisecuritystandards.org/migrating-from-ssl-and-early-tls

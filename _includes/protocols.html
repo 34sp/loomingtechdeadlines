@@ -1,0 +1,11 @@
+<ul>
+{% assign sorted_protocols = site.data.protocols | sort: 'date' %}
+{% for protocol in sorted_protocols %}
+  <li>
+    {{ protocol.name }} {{ protocol.version }}
+    <a href="{{ protocol.url }}">
+      {{ protocol.problem }} on {{ protocol.date }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

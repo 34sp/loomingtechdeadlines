@@ -1,0 +1,11 @@
+<ul>
+{% assign sorted_distros = site.data.distros | sort: 'date' %}
+{% for distro in sorted_distros %}
+  <li>
+    {{ distro.name }} {{ distro.version }}
+    <a href="{{ distro.url }}">
+      {{ distro.problem }} on {{ distro.date }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,23 @@
+- name: PHP
+  version: 5.6
+  date: 2018-12-31
+  problem: End of security support
+  url: http://php.net/supported-versions.php
+
+- name: PHP
+  version: 7.0
+  date: 2018-12-03
+  problem: End of security support
+  url: http://php.net/supported-versions.php
+
+- name: PHP
+  version: 7.1
+  date: 2019-12-01
+  problem: End of security support
+  url: http://php.net/supported-versions.php
+
+- name: PHP
+  version: 7.2
+  date: 2020-11-30
+  problem: End of security support
+  url: http://php.net/supported-versions.php

@@ -1,0 +1,11 @@
+<ul>
+{% assign sorted_languages = site.data.languages | sort: 'date' %}
+{% for language in sorted_languages %}
+  <li>
+    {{ language.name }} {{ language.version }}
+    <a href="{{ language.url }}">
+      {{ language.problem }} on {{ language.date }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

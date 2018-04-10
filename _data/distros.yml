@@ -1,0 +1,23 @@
+- name: CentOS
+  version: 6
+  date: 2020-11-30
+  problem: End of maintenance updates
+  url: https://wiki.centos.org/
+
+- name: CentOS
+  version: 7
+  date: 2024-06-30
+  problem: End of maintenance updates
+  url: https://wiki.centos.org/
+
+- name: Debian
+  version: 7 (Wheezy)
+  date: 2018-05-31
+  problem: End of life
+  url: https://wiki.debian.org/DebianReleases#Production_Releases
+
+- name: Debian
+  version: 8 (Jessie)
+  date: 2020-06-06
+  problem: End of life
+  url: https://wiki.debian.org/DebianReleases#Production_Releases

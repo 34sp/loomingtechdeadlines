@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Lots of tech and web things are going to expire soon.  They'll stop being
   supported, become insecure and generally be a liability to leave active.  This
    site gathers those deadlines into one place for easy reference.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://34sp.github.io/loomingtechdeadlines/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/loomingtechdeadlines" # the subpath of your site, e.g. /blog
+url: "https://34sp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danfoster
 github_username:  merlin83b
 

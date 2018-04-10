@@ -21,3 +21,9 @@
   date: 2020-11-30
   problem: End of security support
   url: http://php.net/supported-versions.php
+
+- name: Python
+  version: 2.7
+  date: 2020-01-01
+  problem: End of maintenance
+  url: https://github.com/python/devguide/pull/344

@@ -1,0 +1,20 @@
+<div>
+    <style scoped>
+        .navigation-item {
+            float: left;
+            list-style-type: none;
+        }
+
+        .navigation-item:not(:last-of-type):after {
+            content: ' | ';
+        }
+    </style>
+    <ul>
+        {% assign filtered = site.pages | where_exp:"page","page.inmenu>0" | sort:'inmenu' %}
+        {% for page in filtered %}
+        <li class="navigation-item"><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+<br />
+<hr />

@@ -3,7 +3,11 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: By category
+inmenu: 1
 ---
+
+{% include nav.html %}
 
 Linux distributions:
 {% include distros.html %}
@@ -16,6 +20,3 @@ Protocols:
 
 Misc:
 {% include misc.html %}
-
-
-Everything in one <a href="biglist.html">big list</a>.

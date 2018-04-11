@@ -21,3 +21,21 @@
   date: 2020-06-06
   problem: End of life
   url: https://wiki.debian.org/DebianReleases#Production_Releases
+
+- name: Ubuntu
+  version: 14.04.4 LTS (Trusty Tahr)
+  date: 2019-04-17
+  problem: End of life
+  url: https://wiki.ubuntu.com/Releases
+
+- name: Ubuntu
+  version: 16.04 LTS (Xenial Xerus)
+  date: 2021-04-21
+  problem: End of life
+  url: https://wiki.ubuntu.com/Releases
+
+- name: Ubuntu
+  version: 17.10 (Artful Aardvark)
+  date: 2018-07-01
+  problem: End of life
+  url: https://wiki.ubuntu.com/Releases

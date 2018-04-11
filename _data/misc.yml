@@ -7,3 +7,13 @@
   date: 2019-11-01
   problem: EOL
   url: https://openvz.org/Releases
+
+- name: LXC 1.0
+  date: 2019-06-01
+  problem: End of support
+  url: https://linuxcontainers.org/lxc/news/#lxc-1010-release-announcement
+
+- name: LXC 2.0
+  date: 2021-06-01
+  problem: End of support
+  url: https://linuxcontainers.org/lxc/news/#lxc-207-release-announcement

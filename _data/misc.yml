@@ -17,3 +17,8 @@
   date: 2021-06-01
   problem: End of support
   url: https://linuxcontainers.org/lxc/news/#lxc-207-release-announcement
+
+- name: LXC 3.0
+  date: 2023-06-01
+    problem: End of support
+    url: https://linuxcontainers.org/lxc/news/#lxc-300-release-announcement

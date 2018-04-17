@@ -2,7 +2,7 @@
 {% assign sorted_misc = site.data.misc | sort: 'date' %}
 {% for item in sorted_misc %}
   <li>
-    {{ item.name }}
+    {{ item.name }} {{ item.version }}
     <a href="{{ item.url }}">
       {{ item.problem }} on {{ item.date }}
     </a>

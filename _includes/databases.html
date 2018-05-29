@@ -1,0 +1,11 @@
+<ul>
+{% assign sorted_databases = site.data.databases | sort: 'date' %}
+{% for database in sorted_databases %}
+  <li>
+    {{ database.name }} {{ database.version }}
+    <a href="{{ database.url }}">
+      {{ database.problem }} on {{ database.date }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

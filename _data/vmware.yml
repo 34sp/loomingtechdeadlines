@@ -1,0 +1,65 @@
+- name: VMware
+  version: vSphere 5.5
+  date: 2018-09-19
+  problem: End of General Support (EOGS)
+  url: https://kb.vmware.com/s/article/51491
+
+- name: VMware 
+  version: vSAN 5.5
+  date: 2018-09-19
+  problem: End of General Support (EOGS)
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+
+- name: VMware 
+  version: vSAN 5.5
+  date: 2020-09-19
+  problem: End of Technical Guidance
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+ 
+- name: VMware
+  version: vSphere 6.5
+  date: 2021-11-15
+  problem: End of General Support (EOGS)
+  url: https://kb.vmware.com/s/article/51491
+
+- name: VMware
+  version: vSphere 6.7
+  date: 2021-11-15
+  problem: End of General Support (EOGS)
+  url: https://kb.vmware.com/s/article/51491
+
+- name: VMware 
+  version: vSAN 6.0
+  date: 2020-03-12
+  problem: End of General Support (EOGS)
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+
+- name: VMware 
+  version: vSAN 6.1
+  date: 2020-03-12
+  problem: End of General Support (EOGS)
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+
+- name: VMware 
+  version: vSAN 6.2
+  date: 2020-03-12
+  problem: End of General Support (EOGS)
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+
+- name: VMware 
+  version: vSAN 6.0
+  date: 2022-03-12
+  problem: End of Technical Guidance
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+
+- name: VMware 
+  version: vSAN 6.1
+  date: 2022-03-12
+  problem: End of Technical Guidance
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+
+- name: VMware 
+  version: vSAN 6.2
+  date: 2022-03-12
+  problem: End of Technical Guidance
+  url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf

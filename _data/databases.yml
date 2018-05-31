@@ -1,0 +1,36 @@
+- name: Oracle
+  version: Enterprise Edition 12.1
+  date: 2018-07-31
+  problem: End of premier support
+  url: http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+
+- name: Oracle
+  version: Enterprise Edition 12.1
+  date: 2021-07-31
+  problem: End of extended support
+  url: http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+ 
+- name: Oracle
+  version: Standard Edition Two (SE2) 12.1
+  date: 2018-07-31
+  problem: End of premier support
+  url: http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+
+- name: Oracle
+  version: Standard Edition Two (SE2) 12.1
+  date: 2021-07-31
+  problem: End of extended support
+  url: http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+ 
+- name: Oracle
+  version: 12.2
+  date: 2022-03-31
+  problem: End of premier support
+  url: http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+
+- name: Oracle
+  version: 12.2
+  date: 2025-03-31
+  problem: End of extended support
+  url: http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+ 

@@ -9,6 +9,9 @@ inmenu: 1
 
 {% include nav.html %}
 
+Databases:
+{% include databases.html %}
+
 Linux distributions:
 {% include distros.html %}
 

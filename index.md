@@ -23,3 +23,6 @@ Protocols:
 
 Misc:
 {% include misc.html %}
+
+VMWare:
+{% include vmware.html %}

@@ -1,0 +1,11 @@
+<ul>
+{% assign sorted_vms = site.data.vmware | sort: 'date' %}
+{% for vm in sorted_vms %}
+  <li>
+    {{ vm.name }} {{ vm.version }}
+    <a href="{{ vm.url }}">
+      {{ vm.problem }} on {{ vm.date }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

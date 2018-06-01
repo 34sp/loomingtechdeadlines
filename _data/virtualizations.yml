@@ -1,35 +1,21 @@
-<<<<<<< HEAD
 - name: VMware
   version: vSphere 5.5
   date: 2018-09-19
-=======
-- name: VMware vSphere
-  version: vSphere 5.5
-  date: 2018-09-31
->>>>>>> 1e9112e7a255dac61f2a69e7729bdef2676b0a08
   problem: End of General Support (EOGS)
   url: https://kb.vmware.com/s/article/51491
 
-- name: VMware 
+- name: VMware
   version: vSAN 5.5
-<<<<<<< HEAD
   date: 2018-09-19
-=======
-  date: 2018-09-31
->>>>>>> 1e9112e7a255dac61f2a69e7729bdef2676b0a08
   problem: End of General Support (EOGS)
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
-- name: VMware 
+- name: VMware
   version: vSAN 5.5
-<<<<<<< HEAD
   date: 2020-09-19
-=======
-  date: 2018-09-31
->>>>>>> 1e9112e7a255dac61f2a69e7729bdef2676b0a08
   problem: End of Technical Guidance
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
- 
+
 - name: VMware
   version: vSphere 6.5
   date: 2021-11-15
@@ -42,38 +28,68 @@
   problem: End of General Support (EOGS)
   url: https://kb.vmware.com/s/article/51491
 
-- name: VMware 
+- name: VMware
   version: vSAN 6.0
   date: 2020-03-12
   problem: End of General Support (EOGS)
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
-- name: VMware 
+- name: VMware
   version: vSAN 6.1
   date: 2020-03-12
   problem: End of General Support (EOGS)
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
-- name: VMware 
+- name: VMware
   version: vSAN 6.2
   date: 2020-03-12
   problem: End of General Support (EOGS)
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
-- name: VMware 
+- name: VMware
   version: vSAN 6.0
   date: 2022-03-12
   problem: End of Technical Guidance
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
-- name: VMware 
+- name: VMware
   version: vSAN 6.1
   date: 2022-03-12
   problem: End of Technical Guidance
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
-- name: VMware 
+- name: VMware
   version: vSAN 6.2
   date: 2022-03-12
   problem: End of Technical Guidance
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+
+- name: OpenVZ
+  version: 6
+  date: 2019-11-01
+  problem: EOL
+  url: https://openvz.org/Releases
+
+- name: LXC
+  version: 1.0
+  date: 2019-06-01
+  problem: End of support
+  url: https://linuxcontainers.org/lxc/news/#lxc-1011-release-announcement
+
+- name: LXC
+  version: 2.0
+  date: 2021-06-01
+  problem: End of support
+  url: https://linuxcontainers.org/lxc/news/#lxc-21-release-announcement
+
+- name: LXC
+  version: 2.1
+  date: 2018-09-01
+  problem: End of support
+  url: https://linuxcontainers.org/lxc/news/#lxc-21-release-announcement
+
+- name: LXC
+  version: 3.0
+  date: 2023-06-01
+  problem: End of support
+  url: https://linuxcontainers.org/lxc/news/#lxc-300-release-announcement

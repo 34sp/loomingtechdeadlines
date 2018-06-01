@@ -3,36 +3,6 @@
   problem: Enforcement
   url: https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/
 
-- name: OpenVZ
-  version: 6
-  date: 2019-11-01
-  problem: EOL
-  url: https://openvz.org/Releases
-
-- name: LXC
-  version: 1.0
-  date: 2019-06-01
-  problem: End of support
-  url: https://linuxcontainers.org/lxc/news/#lxc-1011-release-announcement
-
-- name: LXC
-  version: 2.0
-  date: 2021-06-01
-  problem: End of support
-  url: https://linuxcontainers.org/lxc/news/#lxc-21-release-announcement
-
-- name: LXC
-  version: 2.1
-  date: 2018-09-01
-  problem: End of support
-  url: https://linuxcontainers.org/lxc/news/#lxc-21-release-announcement
-
-- name: LXC
-  version: 3.0
-  date: 2023-06-01
-  problem: End of support
-  url: https://linuxcontainers.org/lxc/news/#lxc-300-release-announcement
-
 - name: Plesk
   version: 12
   date: 2019-01-01

@@ -24,5 +24,5 @@ Protocols:
 Misc:
 {% include misc.html %}
 
-VMWare:
-{% include vmware.html %}
+Virtualizations:
+{% include virtualizations.html %}

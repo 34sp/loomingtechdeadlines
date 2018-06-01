@@ -1,18 +1,32 @@
+<<<<<<< HEAD
 - name: VMware
   version: vSphere 5.5
   date: 2018-09-19
+=======
+- name: VMware vSphere
+  version: vSphere 5.5
+  date: 2018-09-31
+>>>>>>> 1e9112e7a255dac61f2a69e7729bdef2676b0a08
   problem: End of General Support (EOGS)
   url: https://kb.vmware.com/s/article/51491
 
 - name: VMware 
   version: vSAN 5.5
+<<<<<<< HEAD
   date: 2018-09-19
+=======
+  date: 2018-09-31
+>>>>>>> 1e9112e7a255dac61f2a69e7729bdef2676b0a08
   problem: End of General Support (EOGS)
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
 - name: VMware 
   version: vSAN 5.5
+<<<<<<< HEAD
   date: 2020-09-19
+=======
+  date: 2018-09-31
+>>>>>>> 1e9112e7a255dac61f2a69e7729bdef2676b0a08
   problem: End of Technical Guidance
   url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
  

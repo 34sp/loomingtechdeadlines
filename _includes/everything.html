@@ -1,5 +1,5 @@
 <ul>
-{% assign sorted = site.data.databases | concat: site.data.languages | concat: site.data.distros | concat: site.data.protocols | concat: site.data.misc | concat: site.data.virtualizations | sort: 'date' %}
+{% assign sorted = site.data.databases | concat: site.data.ides |concat: site.data.languages | concat: site.data.distros | concat: site.data.protocols | concat: site.data.misc | concat: site.data.virtualizations | sort: 'date' %}
 {% for thing in sorted %}
   <li>
     {{ thing.name }} {{ thing.version }}

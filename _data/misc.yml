@@ -14,3 +14,9 @@
   date: 2021-04-20
   problem: End of life
   url: https://www.plesk.com/lifecycle-policy/
+
+  name: Silverlight
+  version: Version 5
+  date: 2021-10-12
+  problem: End of Mainstream Support
+  url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Silverlight

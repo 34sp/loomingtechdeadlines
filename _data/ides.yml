@@ -1,0 +1,35 @@
+- name: Visual Studio 2017
+  version: Enterprise/Professional
+  date: 2022-04-12
+  problem: End of Mainstream Support
+  url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Visual%20Studio%202017
+
+- name: Visual Studio 2017
+  version: Enterprise/Professional
+  date: 2027-04-13
+  problem: End of Extended Support
+  url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Visual%20Studio%202017
+
+- name: Visual Studio 2015
+  version: All Editions
+  date: 2020-10-13
+  problem: End of Mainstream Support
+  url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Visual%20Studio%202015
+
+- name: Visual Studio 2015
+  version: All Editions
+  date: 2025-10-13
+  problem: End of Extended Support
+  url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Visual%20Studio%202015
+
+  name: Visual Studio 2013
+  version: All Editions
+  date: 2019-04-09
+  problem: End of Mainstream Support
+  url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Visual%20Studio%202013
+
+- name: Visual Studio 2013
+  version: All Editions
+  date: 2024-04-09
+  problem: End of Extended Support
+  url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Visual%20Studio%202013

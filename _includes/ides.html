@@ -1,0 +1,11 @@
+<ul>
+{% assign sorted_ides = site.data.ides | sort: 'date' %}
+{% for ide in sorted_ides %}
+  <li>
+    {{ ide.name }} {{ ide.version }}
+    <a href="{{ ide.url }}">
+      {{ ide.problem }} on {{ ide.date }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

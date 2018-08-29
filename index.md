@@ -12,6 +12,9 @@ inmenu: 1
 Databases:
 {% include databases.html %}
 
+Integrated Development Environments (IDE):
+{% include ides.html %}
+
 Linux distributions:
 {% include distros.html %}
 

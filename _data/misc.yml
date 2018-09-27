@@ -16,19 +16,19 @@
   url: https://www.plesk.com/lifecycle-policy/
 
   name: Silverlight
-  version: Version 5
+  version: 5
   date: 2021-10-12
   problem: End of Mainstream Support
   url: https://support.microsoft.com/en-us/lifecycle/search?alpha=Silverlight
 
   name: Mircosoft AppFabric
-  version: Version 1.1
+  version: 1.1
   date: 2017-04-11
   problem: End of Mainstream Support
   url: https://support.microsoft.com/en-us/lifecycle/search?alpha=AppFabric
   
   name: Mircosoft AppFabric
-  version: Version 1.1
+  version: 1.1
   date: 2022-04-12
   problem: End of Extended Support
   url: https://support.microsoft.com/en-us/lifecycle/search?alpha=AppFabric

@@ -32,3 +32,8 @@
   date: 2022-04-12
   problem: End of Extended Support
   url: https://support.microsoft.com/en-us/lifecycle/search?alpha=AppFabric
+  
+  name: WordPress Classic Editor Plugin
+  date: 2021-12-31
+  problem: End of support
+  url: https://make.wordpress.org/core/2018/11/07/classic-editor-plugin-support-window/

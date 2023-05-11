@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/loomingtechdeadlines" # the subpath of your site, e.g. /blog
 baseurl: ""
 #url: "https://34sp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://loomingtechdeadlines.com"
+url: "https://34sp.github.io/loomingtechdeadlines"
 twitter_username: techdeadline
 github_username:  merlin83b
 
